@@ -12,8 +12,11 @@ We support Black & White and Color, but for some reason Black & White is higher-
 Please refer to the GIF file:
 
 
-[GIF FILE COMING SOON]
+<img src="https://github.com/OpenMediaTools/TerminalVideoPlayer/blob/main/media/demo.gif?raw=true" alt="demo.gif">
 
+GIF not showing up? It's quite a large GIF, and even on fast connections, it will take a white to load.
+
+<a href="https://github.com/OpenMediaTools/TerminalVideoPlayer/blob/main/media/demo.gif?raw=true">Download .GIF</a>
 
 ## If you want to get on the beta waitlist, please:
 
