@@ -1,8 +1,24 @@
 # TerminalVideoPlayer
 
-Play videos directly in your Terminal - using ASCII art!
+Play videos directly in your Terminal - using ASCII art! Written in PHP.
 
 We support Black & White and Color, but for some reason Black & White is higher-resolution.
+
+## Usage
+
+Basics
+
+```
+omtvideo input.mp4
+```
+
+In color:
+
+```
+omtvideo input.mp4 --color
+```
+
+
 
 ## Currently beta and invite only, still needs improvement.
 
