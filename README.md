@@ -1,5 +1,8 @@
 # TerminalVideoPlayer
+
 Play videos directly in your Terminal - using ASCII art!
+
+We support Black & White and Color, but for some reason Black & White is higher-resolution.
 
 ## Currently beta and invite only, still needs improvement.
 
